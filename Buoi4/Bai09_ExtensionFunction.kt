@@ -1,3 +1,4 @@
+// Phạm Đức Trường - 25810048
 fun String.demnguyenam() : Int {
     var diem : Int = 0
     val g : String = "aeiou"
