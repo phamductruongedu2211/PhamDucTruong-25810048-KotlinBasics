@@ -1,3 +1,4 @@
+// Phạm Đức Trường - 25810048
 class SanPham(
 	val tenSanPham : String,
     val gia : Double,
