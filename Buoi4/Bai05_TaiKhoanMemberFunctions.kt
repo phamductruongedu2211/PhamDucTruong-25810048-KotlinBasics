@@ -1,3 +1,4 @@
+// Phạm Đức Trường - 25810048
 class TaiKhoanNganHang(soTaiKhoan : String,
                       soDuBanDau : Double){
     var soDu : Double = soDuBanDau
