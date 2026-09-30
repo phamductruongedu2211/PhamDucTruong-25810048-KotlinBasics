@@ -1,3 +1,4 @@
+// Phạm Đức Trường - 25810048
 open class DongVat(val ten : String){
     open fun keu() : String{
         return "chit chit!"
