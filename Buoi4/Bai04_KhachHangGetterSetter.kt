@@ -1,3 +1,5 @@
+
+// Phạm Đức Trường - 25810048
 class KhachHang(
     var ho: String,
     var ten: String
