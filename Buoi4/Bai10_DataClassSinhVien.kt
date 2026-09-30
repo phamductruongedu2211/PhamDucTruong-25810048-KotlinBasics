@@ -1,3 +1,4 @@
+// Phạm Đức Trường - 25810048
 data class SinhVien(val mssv : String, val hoTen : String, val diemTrungBinh : Double)
 
 fun main() {
